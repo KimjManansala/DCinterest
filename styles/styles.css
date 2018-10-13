@@ -1,0 +1,43 @@
+a{
+    color: rgb(173, 173, 173);
+}
+.navbar-dark .navbar-brand {
+    color: rgb(173, 173, 173);
+    text-align: center;
+}
+.card-img-overlay {
+    position: absolute;
+    padding: 1.25rem;
+
+}
+
+.card-img {
+    width: 150px;
+
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.body-of-pics{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    
+
+
+}
+.card{
+    height: fit-content;
+}
